@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "Homebrew Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,9 +162,9 @@
   },
   "active": "37c523098abed6ea",
   "lastOpenFiles": [
-    "Characters/Paol Gielby.md",
     "Homebrew Rules.md",
     "Introduction.md",
+    "Characters/Paol Gielby.md",
     "Characters",
     "Untitled.canvas",
     "2024-06-03.md",
