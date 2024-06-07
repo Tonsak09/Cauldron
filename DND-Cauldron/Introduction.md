@@ -19,12 +19,12 @@ We have this chart in order to help make the world lean towards a lower magic sy
 
 ## Orn
 
-*Excerpt from Empire of Blood by [[Paol Gielby]] *
+*Excerpt from Empire of Blood by Paol Gielby*
 > Ornish wisdom has gifted us with the modern firearms commonly used. Specially tailored reeds are to be used as the primary mechanism and only once they have reached maturity do we implement the lever action injector. Yes, your rifle is alive and to fire we pump different concoctions into them in order to cause a chemical reaction leading to the ejection of whatever material is in its barrel. 
 
 > Ornish blood merchants have not always been the shunned group that they are today. Due to how integral blood is for the creation of potions and how difficult it can be to get exotic materials in areas where trade lines are weak or nonexistent these merchants have played an integral role in keeping less fortunate populations healthy. (...)
 
 ## Wicked 
 
-*Excerpt from Empire of Blood by [[Paol Gielby]]*
+*Excerpt from Empire of Blood by Paol Gielby*
 > (...) After the horde of wicked finally broke through the Frontier Knight's line at the Echo's Vine the nation of Orn suffered the brunt of the casualties from the creatures as the rampaged through their lands and even made it into Reomry before they were slain and their bodies finally brought back to Cauldron. 
