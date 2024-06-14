@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e3f41cd2ece0320e",
+        "id": "7fcd428d606221e4",
         "type": "tabs",
         "children": [
           {
-            "id": "2a0b3755f28a0b71",
+            "id": "cea4d70db8baa8e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CauldronPlayerInfo/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2433c71e2f94e371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CauldronPlayerInfo/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "787099cd11afca39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CauldronPlayerInfo/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37c523098abed6ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CauldronPlayerInfo/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CauldronPlayerInfo/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CauldronPlayerInfo/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CauldronPlayerInfo/Introduction.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "787099cd11afca39",
+  "active": "cea4d70db8baa8e1",
   "lastOpenFiles": [
-    "CauldronPlayerInfo/Homebrew Rules.md",
     "CauldronPlayerInfo/Introduction.md",
+    "CauldronPlayerInfo/Homebrew Rules.md",
+    "CauldronPlayerInfo",
     "Characters/Paol Gielby.md",
     "Characters",
     "Untitled.canvas",
