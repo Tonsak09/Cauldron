@@ -1,0 +1,17 @@
+Todo
+- Introduce the small war town of [[Brave Point]]
+- Introduce Clare. Their employer
+	- Drinks
+	- Job
+	- How to get there
+	- They need to figure out how to get She-Eh-Gi out
+		- Brute force
+		- Dress up
+		- Hole
+- [[Path to Echos-Vine]]
+- Introduce [[Echos Vine]]
+- Escape with She-Eh-Gi
+- Return through [[Path to Echos-Vine]]
+- Meet slightly west of [[Brave Point]] to meet with Clare
+	- Another job getting a friend. [[Paol Gielby]]
+	- 

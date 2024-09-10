@@ -1,0 +1,8 @@
+- Blood Merchant tells Seven to jump. Used spiderweb cushion potion 
+- Trade with merchant 
+- Fight up hill towards Ornish Sharpshooter 
+- Wyvern with a gun? 
+	- Could be related to the experimental weapons
+	- Has an area where reeds are being grown for use 
+- Hov-Ir is pissed
+- 
