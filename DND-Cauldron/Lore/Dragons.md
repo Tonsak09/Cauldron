@@ -25,7 +25,7 @@ Drakes have the striking ability that anything that they eat tends to become the
 *Burnt Borders by Tullir Hiun*
 > [[Ji'tonj]] is friend to none. Through a jealous rage that may even rival the [[Mad Kings]] she has hunted a number of unicorns to achieve a right she believes stolen from her. By stuffing unicorn hair between her scales she has achieved a galloping flight. 
 > 
-> He now travels though both Miocho and Orn in order to search out and challenge other drakes for territory and eating rights.
+> She now travels though both Miocho and Orn in order to search out and challenge other drakes for territory and eating rights.
 ## Whyvern
 
 > 

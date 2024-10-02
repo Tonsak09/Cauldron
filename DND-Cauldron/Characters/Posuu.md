@@ -12,3 +12,4 @@ Can only use expandable after having at least one encounter with the party. Only
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Acid       | S + Blood of Amorphous Creature | Applies the effects of [Melf's Acid Arrow](https://dnd5e.wikidot.com/spell:melfs-acid-arrow) to your projectile. Non-stackable |
 | Expandable | M + Blood of species reactant   | Increases damage by d10 piercing when in contact of reactant species. Stackable                                                |
+|            |                                 |                                                                                                                                |

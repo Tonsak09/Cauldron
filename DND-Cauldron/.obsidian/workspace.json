@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Echos Vine.md",
+                "file": "CauldronPlayerInfo/SessionSummaries/Session Summary 02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a5cc6c10e6aaff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CauldronPlayerInfo/SessionSummaries/Session Summary 03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e240792077e9595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Posuu.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3c588a5393e00c4f",
@@ -31,7 +56,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ScratchPads/Session 02.md",
+                "file": "ScratchPads/Session 03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f94d6e618e48b8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Echos Vine.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Echos Vine.md",
+                "file": "CauldronPlayerInfo/SessionSummaries/Session Summary 03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Echos Vine.md",
+                "file": "CauldronPlayerInfo/SessionSummaries/Session Summary 03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Echos Vine.md"
+                "file": "CauldronPlayerInfo/SessionSummaries/Session Summary 03.md"
               }
             }
           }
@@ -164,25 +201,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1ab76f2156d3606",
+  "active": "8a5cc6c10e6aaff1",
   "lastOpenFiles": [
+    "ScratchPads/Session 03.md",
+    "CauldronPlayerInfo/SessionSummaries/Session Summary 03.md",
+    "Lore/Dragons.md",
     "ScratchPads/Session 02.md",
-    "Locations/Echos Vine.md",
-    "ScratchPads/Session 01.md",
-    "Random.md",
-    "ScratchPads",
+    "CauldronPlayerInfo/SessionSummaries/Session Summary 02.md",
+    "CauldronPlayerInfo/Homebrew Rules.md",
     "CauldronPlayerInfo/SessionSummaries/Session Summary 01.md",
+    "Angelic Library.md",
+    "Random.md",
+    "Characters/Posuu.md",
+    "Locations/Brave Point.md",
+    "ScratchPads/Session 01.md",
+    "Locations/Echos Vine.md",
+    "Locations/Path to Echos-Vine.md",
+    "ScratchPads/Untitled.md",
+    "ScratchPads",
     "CauldronPlayerInfo/Media/Shallow.jpg",
     "CauldronPlayerInfo/Media/Furry.jpg",
     "CauldronPlayerInfo/Media/BigCreature.jpg",
     "CauldronPlayerInfo/Media/Echos-Vine Whiteboard.jpg",
     "CauldronPlayerInfo/Media",
-    "Locations/Path to Echos-Vine.md",
-    "Locations/Brave Point.md",
     "CauldronPlayerInfo/SessionSummaries",
-    "CauldronPlayerInfo/Homebrew Rules.md",
-    "Lore/Dragons.md",
-    "Characters/Posuu.md",
     "Adventure/YetToBeExpored!/Bajju Den.md",
     "Adventure/YetToBeExpored!/Stone Movers.md",
     "CauldronPlayerInfo/Introduction.md",
