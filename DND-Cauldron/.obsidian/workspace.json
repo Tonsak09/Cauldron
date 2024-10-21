@@ -16,7 +16,9 @@
                 "file": "CauldronPlayerInfo/SessionSummaries/Session Summary 02.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Session Summary 02"
             }
           },
           {
@@ -25,10 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CauldronPlayerInfo/SessionSummaries/Session Summary 03.md",
+                "file": "Debate at Reomry.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Debate at Reomry"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Characters/Posuu.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Posuu"
             }
           }
         ],
@@ -56,10 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ScratchPads/Session 03.md",
+                "file": "CauldronPlayerInfo/Homebrew Rules.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Homebrew Rules"
             }
           },
           {
@@ -71,7 +79,9 @@
                 "file": "Locations/Echos Vine.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Echos Vine"
             }
           }
         ]
@@ -94,7 +104,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -109,7 +121,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -117,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -140,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CauldronPlayerInfo/SessionSummaries/Session Summary 03.md",
+                "file": "Debate at Reomry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +164,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Debate at Reomry"
             }
           },
           {
@@ -157,10 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CauldronPlayerInfo/SessionSummaries/Session Summary 03.md",
+                "file": "Debate at Reomry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Debate at Reomry"
             }
           },
           {
@@ -171,7 +191,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -180,8 +202,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CauldronPlayerInfo/SessionSummaries/Session Summary 03.md"
-              }
+                "file": "Debate at Reomry.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Debate at Reomry"
             }
           }
         ]
@@ -203,21 +227,25 @@
   },
   "active": "8a5cc6c10e6aaff1",
   "lastOpenFiles": [
-    "ScratchPads/Session 03.md",
-    "CauldronPlayerInfo/SessionSummaries/Session Summary 03.md",
-    "Lore/Dragons.md",
-    "ScratchPads/Session 02.md",
-    "CauldronPlayerInfo/SessionSummaries/Session Summary 02.md",
     "CauldronPlayerInfo/Homebrew Rules.md",
-    "CauldronPlayerInfo/SessionSummaries/Session Summary 01.md",
+    "Debate at Reomry.md",
+    "CauldronPlayerInfo/Introduction.md",
+    "Discusser.md",
     "Angelic Library.md",
+    "ScratchPads/Session 04.md",
+    "CauldronPlayerInfo/SessionSummaries/Session Summary 03.md",
+    "ScratchPads/Session 03.md",
+    "Pasted image 20241005200526.png",
+    "ScratchPads/Session 01.md",
+    "ScratchPads/Session 02.md",
+    "Lore/Dragons.md",
+    "CauldronPlayerInfo/SessionSummaries/Session Summary 02.md",
+    "CauldronPlayerInfo/SessionSummaries/Session Summary 01.md",
     "Random.md",
     "Characters/Posuu.md",
     "Locations/Brave Point.md",
-    "ScratchPads/Session 01.md",
     "Locations/Echos Vine.md",
     "Locations/Path to Echos-Vine.md",
-    "ScratchPads/Untitled.md",
     "ScratchPads",
     "CauldronPlayerInfo/Media/Shallow.jpg",
     "CauldronPlayerInfo/Media/Furry.jpg",
@@ -227,7 +255,6 @@
     "CauldronPlayerInfo/SessionSummaries",
     "Adventure/YetToBeExpored!/Bajju Den.md",
     "Adventure/YetToBeExpored!/Stone Movers.md",
-    "CauldronPlayerInfo/Introduction.md",
     "Characters/Paol Gielby.md",
     "Adventure/Media/Echos-Vine.drawio.png",
     "Adventure/Media",
